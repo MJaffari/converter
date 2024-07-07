@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+padding: 0;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.hero{
+    margin-top: 0px;
+    background-color: #6943FF;
+    color: #ffff;
+    height: 285px;
+    width: 550px;
+    text-align: center;
+    align-content: center;
+
+}
+h1{
+width: 448.4px;
+height: 38px;
+top: 33px;
+left: 51px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 28px;
+font-weight: 800;
+line-height: 38px;
+letter-spacing: -0.03em;
+color: #FFFFFF;
+margin-left: 30px;
+
+}
+input{
+    margin-bottom: 25px;
+    margin-top: 25px;
+    width: 117px;
+height: 83px;
+top: 101px;
+left: 217px;
+gap: 0px;
+border-radius: 5px;
+border: 2px 0px 0px 0px;
+opacity: 0px;
+border:none;
+background: #6943FF;
+border: 2px solid #B295FF;
+font-size: 58px;
+text-align: center;
+color: #ffff;
+outline: none;
+font-weight: 800;
+line-height: 24.39px;
+}
+button{
+    width: 117px;
+height: 42px;
+top: 209px;
+left: 217px;
+padding: 9px 27.5px 9px 27.5px;
+gap: 0px;
+border-radius: 5px;
+opacity: 0px;
+outline: none;
+box-shadow: 0px 1px 2px 0px #0000000D;
+border: 0;
+}
+
+                     /* main */
+
+
+.main{
+    width: 550px;
+height: 729px;
+top: 126px;
+left: 696px;
+gap: 0px;
+opacity: 0px;
+background-color: #1F2937;
+display: flex;
+justify-content: center;
+
+}
+.section{
+    width: 500px;
+height: 108.57px;
+top: 321px;
+left: 25px;
+gap: 18.72px;
+border-radius: 4.68px 0px 0px 0px;
+opacity: 0px;
+background: #273549;
+text-align: center;
+margin-top: 36px;
+padding-top: 5px;
+}
+h3{
+    width: 346px;
+height: 25px;
+top: 31px;
+left: 77px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 20px;
+font-weight: 600;
+line-height: 20px;
+text-align: center;
+color: #CCC1FF;
+margin: 31px 77px 0px;
+}
+p{
+    width: 346px;
+height: 25px;
+top: 65px;
+left: 77px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 14px;
+font-weight: 400;
+line-height: 20px;
+text-align: center;
+color: #FFFFFF;
+margin: 9px 77px ;
+}
